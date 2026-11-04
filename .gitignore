@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+.env
+
+*_backup.py
+incident_PINOA-*.txt
